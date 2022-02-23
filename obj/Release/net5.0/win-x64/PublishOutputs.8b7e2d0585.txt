@@ -1,0 +1,6 @@
+C:\Users\thumb\OneDrive\Dokumente\GitHub\svgzToPng\bin\Release\net5.0\win-x64\publish\svgzToPng.pdb
+C:\Users\thumb\OneDrive\Dokumente\GitHub\svgzToPng\bin\Release\net5.0\win-x64\publish\clrcompression.dll
+C:\Users\thumb\OneDrive\Dokumente\GitHub\svgzToPng\bin\Release\net5.0\win-x64\publish\clrjit.dll
+C:\Users\thumb\OneDrive\Dokumente\GitHub\svgzToPng\bin\Release\net5.0\win-x64\publish\coreclr.dll
+C:\Users\thumb\OneDrive\Dokumente\GitHub\svgzToPng\bin\Release\net5.0\win-x64\publish\mscordaccore.dll
+C:\Users\thumb\OneDrive\Dokumente\GitHub\svgzToPng\bin\Release\net5.0\win-x64\publish\svgzToPng.exe
