@@ -17,7 +17,6 @@ namespace svgzToPng
 
         public static void transformSVGZToPNG(string[] paths){
             foreach (string path in paths){
-                // load svg file as MemoryStream
                 SvgDocument svgDoc = SvgDocument.Open(path);
                 Bitmap bitmap = svgDoc.Draw();
                 bitmap.Save(path.Replace(".svgz", ".png"), ImageFormat.Png);
